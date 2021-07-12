@@ -25,3 +25,7 @@ get_prop(system_app, vendor_default_prop)
 
 
 allow system_app sysfs_thermal:file rw_file_perms;
+
+# Fast Charge
+allow system_app sysfs_fastcharge:file rw_file_perms;
+
