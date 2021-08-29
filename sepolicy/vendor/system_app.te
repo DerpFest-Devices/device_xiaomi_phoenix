@@ -24,3 +24,4 @@ allow system_app sysfs_vibrator:file getattr;
 get_prop(system_app, vendor_default_prop)
 
 
+allow system_app sysfs_thermal:file rw_file_perms;
