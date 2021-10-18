@@ -453,8 +453,7 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
-    NotchBarKiller
+    NoCutoutOverlay
 
 # Power
 PRODUCT_PACKAGES += \
