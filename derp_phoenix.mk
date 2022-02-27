@@ -23,6 +23,7 @@ TARGET_GAPPS_ARCH := arm64
 
 # derpOS Properties
 DERP_BUILDTYPE := Official
+TARGET_SUPPORTS_QUICK_TAP := true
 
 BUILD_FINGERPRINT := POCO/phoenixin/phoenixin:11/RKQ1.200826.002/V12.1.3.0.RGHINXM:user/release-keys
 
