@@ -1,0 +1,2 @@
+# Disable remote keyguard animation
+persist.wm.enable_remote_keyguard_animation=0
